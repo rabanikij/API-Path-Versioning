@@ -1,0 +1,6 @@
+@DemoEmployeeApiVersioning.WebAPI_HostAddress = http://localhost:5296
+
+GET {{DemoEmployeeApiVersioning.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
