@@ -23,8 +23,8 @@ The project demonstrates:
 * Version-specific API contracts
 * Separation between Domain Model and API Contracts
 * Clean Architecture implementation
-* Swagger/OpenAPI integration 
-
+* Swagger/OpenAPI integration
+* InMemoryDatabase used for simplicity with seeded data
 
 
 ## Advantages of using **URI / Path Versioning**
@@ -42,6 +42,29 @@ The project demonstrates:
 ## Best for: 
 *  Public REST APIs, Fast growing applications
 
+
+
+## Future Enhancements
+
+The following enhancements can be gradually added in future iterations:
+
+* FluentValidation
+* AutoMapper
+* Serilog logging
+* Health Checks 
+* Entity Framework Core
+* SQL Server integration
+* CQRS with MediatR
+* Angular front-end
+* API Deprecation support
+* API Sunset headers
+* Authentication using JWT
+* API Rate Limiting
+* Unit Tests
+* Integration Tests
+* Docker support
+* GitHub Actions CI/CD
+* Azure App Service deployment
 
 ---
 
